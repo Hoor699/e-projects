@@ -49,3 +49,5 @@ function scrollCarousel(direction) {
       behavior: 'smooth'
     });
   }
+
+  
